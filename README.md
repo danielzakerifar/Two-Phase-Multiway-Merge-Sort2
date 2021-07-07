@@ -14,7 +14,7 @@ best buffer size before it starts the actual sorting.
 The project will be graded based on correctness, wall-clock execution time and optimization on the
 size of buffer and number of rounds.
 There are a few considerations:
- Programming language is restricted to Java.
-   Use Xmxkm to restrict the main memory usage to k MB. for example Xmx5m will restrict the
+-Programming language is restricted to Java.
+-Use Xmxkm to restrict the main memory usage to k MB. for example Xmx5m will restrict the
 main memory to 5MB. it  needs  to  set it up on Eclipse.
- the work with any input size.
+-the work with any input size.
