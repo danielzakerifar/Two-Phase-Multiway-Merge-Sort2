@@ -1,8 +1,8 @@
 # Two-Phase-Multiway-Merge-Sort2
-The task is to sort a large input file of tuples (records). The input file is given as a text-file in which
+The task is to sort a large input file of tuples (records). The input file is given as a text-file in which
 each line of the file contains multiple positive integers (with possibly duplicated values), separate by
 a single space. Each integer represents a tuple. The task is to compare the tuples in the input, and
-to output a file with the same tuples sorted in ascending order. The first line of the input le will
+to output a file with the same tuples sorted in ascending order. The first line of the input file will
 indicate the number of tuples in it and the amount of allowed maximum main memory. The second
 line of the input file is blank and from the third line the tuples start. All the tuples are in a single
 line. Example-
